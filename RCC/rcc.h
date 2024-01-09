@@ -1,0 +1,1 @@
+void system_clock_168m_25m_hse(void);
